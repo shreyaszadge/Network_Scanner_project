@@ -2,7 +2,9 @@
 <h3>Introduction</h3>
 There are lot of tool to show network connected devices but  <br>
 here is simple python script which need only ip to showing mac address of the device <br>
-that connected using this or given ip <br>
+that connected using this or given ip some times program don't work because of third party module <br>
+not searching mac address but there are script versions 2
+
 
 <h3>Requirement</h3><br>
 python 3<br>
